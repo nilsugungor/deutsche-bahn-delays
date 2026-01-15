@@ -1,4 +1,3 @@
-# deutsche-bahn-delays
 # Exploratory Data Analysis & Time Series Forecasting of Deutsche Bahn Train Delays
 
 This project analyzes over **2 million train ride records** from Deutsche Bahn to uncover delay patterns across stations, time, and station categories. It combines **Exploratory Data Analysis (EDA)** with **time series forecasting** to generate insights and short-term delay predictions.
